@@ -1,4 +1,4 @@
-# Videonotat PiP
+# Opencast PiP
 
 This tool batch produces picture in picture videos from paired Opencast recordings. Each pair consists of a presenter video and a presentation video. The script stacks each pair vertically and outputs ready to use combined files.
 
